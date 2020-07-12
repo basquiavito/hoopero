@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hoopero/static/css/main.08624717.chunk.css",
+    "main.js": "/hoopero/static/js/main.3384d121.chunk.js",
+    "main.js.map": "/hoopero/static/js/main.3384d121.chunk.js.map",
+    "runtime-main.js": "/hoopero/static/js/runtime-main.0c86177d.js",
+    "runtime-main.js.map": "/hoopero/static/js/runtime-main.0c86177d.js.map",
+    "static/js/2.06dafe7b.chunk.js": "/hoopero/static/js/2.06dafe7b.chunk.js",
+    "static/js/2.06dafe7b.chunk.js.map": "/hoopero/static/js/2.06dafe7b.chunk.js.map",
+    "index.html": "/hoopero/index.html",
+    "precache-manifest.802fb55f37f50617b29f08a06d3e4ee5.js": "/hoopero/precache-manifest.802fb55f37f50617b29f08a06d3e4ee5.js",
+    "service-worker.js": "/hoopero/service-worker.js",
+    "static/css/main.08624717.chunk.css.map": "/hoopero/static/css/main.08624717.chunk.css.map",
+    "static/js/2.06dafe7b.chunk.js.LICENSE.txt": "/hoopero/static/js/2.06dafe7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c86177d.js",
+    "static/js/2.06dafe7b.chunk.js",
+    "static/css/main.08624717.chunk.css",
+    "static/js/main.3384d121.chunk.js"
+  ]
+}
